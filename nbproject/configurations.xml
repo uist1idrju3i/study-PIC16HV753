@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <logicalFolder name="app" displayName="app" projectFiles="true">
+        <itemPath>app/initialize.h</itemPath>
       </logicalFolder>
       <logicalFolder name="drv" displayName="drv" projectFiles="true">
         <logicalFolder name="mcal" displayName="mcal" projectFiles="true">
@@ -23,6 +24,7 @@
                    displayName="Source Files"
                    projectFiles="true">
       <logicalFolder name="app" displayName="app" projectFiles="true">
+        <itemPath>app/initialize.c</itemPath>
       </logicalFolder>
       <logicalFolder name="drv" displayName="drv" projectFiles="true">
         <logicalFolder name="mcal" displayName="mcal" projectFiles="true">
