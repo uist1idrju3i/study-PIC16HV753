@@ -9,7 +9,9 @@
             <sourceEncoding>UTF-8</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList>
-                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>app</sourceRootElem>
+                <sourceRootElem>drv</sourceRootElem>
+                <sourceRootElem>lib</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

@@ -39,7 +39,9 @@
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
-    <Elem>.</Elem>
+    <Elem>app</Elem>
+    <Elem>drv</Elem>
+    <Elem>lib</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
