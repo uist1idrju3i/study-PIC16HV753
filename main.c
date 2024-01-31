@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <xc.h>
 
+#include "lib/function.h"
 #include "lib/infinite_loop.h"
 
 int main(void) {

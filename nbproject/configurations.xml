@@ -12,6 +12,7 @@
       </logicalFolder>
       <logicalFolder name="lib" displayName="lib" projectFiles="true">
         <itemPath>lib/infinite_loop.h</itemPath>
+        <itemPath>lib/function.h</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
